@@ -1,0 +1,29 @@
+{
+  "name": "portfolio-tailwind",
+  "version": "1.0.0",
+  "description": "mon portfolio en ligne développé avec Tailwind pour le front et hébergé sur github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AydinMuhammed/Portfolio-Tailwind.git"
+  },
+  "keywords": [
+    "portfolio",
+    "tailwind-css",
+    "node.js",
+    "contact-form",
+    "web-development"
+  ],
+  "author": "Muhammed Aydin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AydinMuhammed/Portfolio-Tailwind/issues"
+  },
+  "homepage": "https://github.com/AydinMuhammed/Portfolio-Tailwind#readme",
+  "devDependencies": {
+    "npm": "^10.7.0"
+  }
+}
