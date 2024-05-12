@@ -25,5 +25,8 @@
   "homepage": "https://github.com/AydinMuhammed/Portfolio-Tailwind#readme",
   "devDependencies": {
     "npm": "^10.7.0"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.4.3"
   }
 }
