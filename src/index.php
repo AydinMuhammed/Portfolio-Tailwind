@@ -7,14 +7,19 @@
   <script src="./script.js"></script> <!-- lien avec mon script -->
   <title>Mon Portfolio</title>
 </head>
-<body>
+<body class="font-inter">
+  <?php include 'navbar.php'; ?>
 
-
-
-  <h1 class="text-center bg-blue-700">
-    Hello world!
-  </h1>
-
+  <!-- Hero -->
+  <div class="hero min-h-screen bg-base-200">
+  <div class="hero-content text-center">
+    <div class="max-w-md">
+      <h1 class="text-5xl font-bold">Hello there</h1>
+      <p class="py-6">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
+      <button class="btn btn-primary">Get Started</button>
+    </div>
+  </div>
+</div>
 
   
 </body>
